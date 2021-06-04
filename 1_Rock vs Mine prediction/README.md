@@ -1,1 +1,1 @@
-the Logistic Regression model is used for prediction
+The Logistic Regression model is used for prediction
